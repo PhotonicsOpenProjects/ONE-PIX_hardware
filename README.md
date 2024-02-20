@@ -6,19 +6,17 @@ The ONE-PIX_hardware repository contains all the files and information to build 
 
 This folder contains:
 
-- The [material needed list](hardware_build/materials_needed.pdf) file containing raw materials and equipments needed to build the ONE-PIX kit hardware.
-- The [hardware building tutorial](hardware_build/hardware_building_tutorial.pdf) file containing details steps to build the ONE-PIX kit.
-- [STL files ready to 3D_printing](hardware_build/STL_file_ready_to_3D_printing) folder containing every files to 3D print components fixation parts of the kit.
-- [plans of box sides ready to cut](hardware_build/plan_of_box_sides_ready_to_cut) folder containing every files to  laser cut sides of the ONE-PIX kit case.
-- The [CAO files to modify hardware](hardware_build/CAO_files_to_modify_hardware) folder containting the complet CAO of the ONE-PIX kit if you want to adapt the hardware to your application.
+- The [material needed list](https://github.com/PhotonicsOpenProjects/ONE-PIX/wiki/4.-ONE%E2%80%90PIX--Hardware#components-list) file containing raw materials and equipments needed to build the ONE-PIX kit hardware.
+- The [hardware building tutorial]([hardware_build/hardware_building_tutorial.pdf](https://github.com/PhotonicsOpenProjects/ONE-PIX/wiki/4.-ONE%E2%80%90PIX--Hardware)) file containing details steps to build the ONE-PIX kit.
+- [STL files ready to 3D_printing](/STL_file_ready_to_3D_printing) folder containing every files to 3D print components fixation parts of the kit.
+- [plans of box sides ready to cut](/plan_of_box_sides_ready_to_cut) folder containing every files to  laser cut sides of the ONE-PIX kit case.
+- The [CAO files to modify hardware](/CAO_files_to_modify_hardware) folder containting the complet CAO of the ONE-PIX kit if you want to adapt the hardware to your application.
 
 
 > **_NOTE:_** You can also buy a premounted and adapted ONE-PIX kit [here](https://www.photonics-bretagne.com/fr/product/imageur-hyperspectral-one-pix-pop/). 
 > Keep in mind that it is also the best way to help us maintaining the forge, integrating contribution and even propose one day industrial implementation of this technology for the broader audience and usage possible.
 
-## Building 
 
-To build your own ONE-PIX kit you can follow the [ONE-PIX box production parts step](https://github.com/PhotonicsOpenProjects/ONE-PIX/wiki/4.-ONE%E2%80%90PIX--Hardware) tutorial
 
 ## Contributing 
 
